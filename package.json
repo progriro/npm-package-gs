@@ -1,0 +1,8 @@
+{
+  "name": "@ProgRiro/hellolib",
+  "version": "1.0.0",
+  "description": "This is a javascript sample library.",
+  "main": "index.js",
+  "author": "ProgRiro",
+  "license": "MIT"
+}
